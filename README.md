@@ -7,3 +7,5 @@ my arch linux!
 | Команда |
 | ------- |
 | sudo pacman -Syu |
+
+'sudo pacman -S'
