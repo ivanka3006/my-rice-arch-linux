@@ -20,4 +20,4 @@ my arch linux!
 
 | Команда |
 | ------- |
-| <span onclick="this.innerHTML='sudo pacman -Syu'">`sudo pacman -Syu`</span> |
+| <span onclick="document.execCommand('copy');">`sudo pacman -Syu`</span> |
