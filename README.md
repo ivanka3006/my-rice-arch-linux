@@ -8,4 +8,5 @@ my arch linux!
 | ------- |
 | sudo pacman -Syu |
 
-'sudo pacman -S'
+`sudo pacman -Syu`
+
