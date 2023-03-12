@@ -18,6 +18,3 @@ my arch linux!
 
 
 
-| Команда |
-| ------- |
-| <span onclick="document.execCommand('copy');">`sudo pacman -Syu`</span> |
