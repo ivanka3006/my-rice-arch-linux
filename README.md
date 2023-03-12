@@ -9,4 +9,4 @@ my arch linux!
 | sudo pacman -Syu |
 
 `sudo pacman -Syu`
-```sss```
+
