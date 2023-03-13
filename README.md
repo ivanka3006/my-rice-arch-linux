@@ -2,7 +2,6 @@
 my arch linux!
 
 
-![2109](https://user-images.githubusercontent.com/127678638/224560547-17d2ee5f-f687-4871-9f01-60c1de6f4c26.jpg)
 
 
 
@@ -10,6 +9,7 @@ my arch linux!
 | ------- |
 | sudo pacman -Syu |
 
+![Снимок экрана от 2023-03-13 13-14-08](https://user-images.githubusercontent.com/127678638/224712728-fbf5522a-13ae-4886-947a-478efa5a6980.png)
 
 
 
