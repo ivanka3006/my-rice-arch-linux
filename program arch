@@ -56,11 +56,11 @@ nano ~/.config/fish/config.fish
 
 Install programms
 
-sudo pacman -S feh rofi maim kitty telegram-desktop discord ttf-font-awesome fonts-noto thunar cmus neofetch nvidia cava micro mousepad gimp obs-studio nvidia-prime fish qbittorrent 
+sudo pacman -S rofi polybar telegram-desktop thunar vlc neovim code kitty micro obs-studio flameshot steam qbittorrent
 
-yay -S google-chrome neo-matrix
+yay -S google-chrome cmatrix spotify balena-etcher
 
-\______________________________________________________________________________________/
+\_____________________________________________________________________________________/
 
 
 
