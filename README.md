@@ -5,8 +5,6 @@ my arch linux!
 
 
 
-![Снимок экрана от 2023-03-13 13-14-08](https://user-images.githubusercontent.com/127678638/224712728-fbf5522a-13ae-4886-947a-478efa5a6980.png)
-
 
 
 `sudo pacman -Syu`
@@ -16,3 +14,32 @@ my arch linux!
 | sudo pacman -Syu |
 
 
+Copy code
+sudo pacman -S brightnessctl
+Чтобы увеличить яркость экрана на 50% с использованием brightnessctl, выполните следующую команду:
+
+arduino
+Copy code
+brightnessctl set +50%
+Аналогично, чтобы уменьшить яркость экрана на 50%, выполните следующую команду:
+
+arduino
+Copy code
+brightnessctl set 50%-
+
+Вы также можете проверить текущее значение яркости с помощью следующей команды:
+
+arduino
+Copy code
+brightnessctl get
+Кроме того, вы можете использовать значение яркости в процентах или в абсолютных единицах. Например, чтобы установить яркость в 50%, вы можете выполнить команду:
+
+arduino
+Copy code
+brightnessctl set 50%
+Или, чтобы установить абсолютное значение яркости в 4000, выполните следующую команду:
+
+arduino
+Copy code
+brightnessctl set 4000
+Обратите внимание, что для использования brightnessctl требуются права суперпользователя, так что вы должны запускать его с помощью sudo.
