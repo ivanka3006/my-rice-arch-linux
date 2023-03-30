@@ -58,7 +58,7 @@ Install programms
 
 sudo pacman -S rofi dunst polybar telegram-desktop thunar vlc neovim code kitty micro obs-studio flameshot steam qbittorrent
 
-yay -S google-chrome cmatrix spotify balena-etcher
+yay -S google-chrome cmatrix spotify balena-etcher picom-pijulius-git
 
 \_____________________________________________________________________________________/
 
