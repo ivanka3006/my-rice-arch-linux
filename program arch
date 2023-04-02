@@ -60,6 +60,10 @@ sudo pacman -S rofi dunst polybar telegram-desktop thunar vlc neovim code kitty 
 
 yay -S google-chrome cmatrix spotify balena-etcher picom-pijulius-git
 
+
+
+
+sudo pacman -S ttf-dejavu ttf-liberation noto-fonts ttf-font-awesome adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts && yay -S noto-fonts-emoji ttf-joypixels ttf-twemoji otf-openmoji  ttf-symbola nerd-fonts
 \_____________________________________________________________________________________/
 
 
