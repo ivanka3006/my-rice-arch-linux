@@ -56,12 +56,12 @@ nano ~/.config/fish/config.fish
 
 Install programms
 
-sudo pacman -S rofi dunst polybar telegram-desktop thunar vlc neovim code kitty micro obs-studio flameshot steam qbittorrent
+sudo pacman -S telegram-desktop vlc neovim code micro obs-studio steam qbittorrent
 
-yay -S google-chrome cmatrix spotify balena-etcher picom-pijulius-git
+yay -S google-chrome cmatrix spotify
 
 
-
+шрифты там yay & pacman
 
 sudo pacman -S ttf-dejavu ttf-liberation noto-fonts ttf-font-awesome adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts && yay -S noto-fonts-emoji ttf-joypixels ttf-twemoji otf-openmoji  ttf-symbola nerd-fonts
 \_____________________________________________________________________________________/
